@@ -3,8 +3,8 @@
 #include <BlynkSimpleEsp8266.h>
 
 char auth[]  = "*****" ; 
-const char* ssid     = "aravindh"; // Your ssid
-const char* password = "aravindh123"; // Your Password
+const char* ssid     = "*****"; // Your ssid
+const char* password = "*****"; // Your Password
 float temp_celsius = 0;
 float temp_fahrenheit = 0;
 
